@@ -1,4 +1,4 @@
 # Advanced-CSharp
 
-Over here, I gonna post all my Homeworks and Applications from all modules of C# Advanced part.
-Hope, it's will be usefull for you .
+I'am gonna post all my Homeworks and Applications from all modules of C# Advanced part.
+I Hope, it will be usefull for you .
